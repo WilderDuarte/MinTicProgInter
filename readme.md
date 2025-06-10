@@ -104,11 +104,13 @@ git remote -v
 5. Crear la rama principal `master` y subirla:
 
 ```bash
-git branch -M master
-git push -u origin master
+git branch -m master
+git push origin master
 ```
 
 ---
+
+> -M significa "rename forzado". Se usa en lugar de -m para evitar errores si ya existe una rama llamada master.
 
 ## Parte 5: Uso básico de ramas
 
@@ -161,10 +163,9 @@ git clone https://github.com/usuario/proyecto-clase.git
 
 ## Entregable
 
-- Enviar al profesor:
-  - El enlace del repositorio en GitHub.
-  - Confirmación de que existen al menos dos ramas (`master` y una rama `feature-*`).
-  - Que haya al menos dos commits registrados.
+- El enlace del repositorio en GitHub.
+- Confirmación de que existen al menos dos ramas (`master` y una rama `feature-*`).
+- Que haya al menos dos commits registrados.
 
 ---
 
