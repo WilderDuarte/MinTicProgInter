@@ -5,8 +5,6 @@
 
 # Actividad en Clase: Git y GitHub Básico
 
-# Actividad en Clase: Git y GitHub Básico
-
 ## Objetivo
 
 Practicar el flujo básico de trabajo con Git y GitHub desde la terminal, incluyendo la creación de un repositorio local, configuración inicial, conexión con GitHub, y el uso básico de ramas.
