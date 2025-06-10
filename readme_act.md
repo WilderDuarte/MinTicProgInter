@@ -1,4 +1,7 @@
-![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub")
+<p align="center">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="80" height="80" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="80" height="80" />
+</p>
 
 # Actividad: Crear un README con el paso a paso del flujo básico de Git y GitHub
 
@@ -23,7 +26,7 @@ Crear un archivo `README.md` en formato Markdown que documente el flujo completo
 
 ## Estructura mínima esperada en el `README.md`
 
-- Tu archivo debe contener (como mínimo) lo siguiente:
+- Tu archivo debe contener lo siguiente:
     - Un archivo README.md completo, funcional, y bien organizado.
     - El repositorio debe estar en GitHub con al menos dos ramas (master y una feature-*).
     - Se debe haber hecho al menos dos commits visibles.
