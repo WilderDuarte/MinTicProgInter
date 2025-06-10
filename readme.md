@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git Logo" width="80" height="80" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="80" height="80" />
+</p>
+
+# Actividad en Clase: Git y GitHub Básico
 
 # Actividad en Clase: Git y GitHub Básico
 
