@@ -1,18 +1,18 @@
 // Lista de usuarios 
 const usuarios = [
-    { email: "juan@correo.com", password: "Jua123" },
-    { email: "maria@correo.com", password: "Mar123" },
-    { email: "carlos@correo.com", password: "Car123" },
-    { email: "laura@correo.com", password: "Lau123" },
-    { email: "andres@correo.com", password: "And123" },
-    { email: "camila@correo.com", password: "Cam123" },
-    { email: "david@correo.com", password: "Dav123" },
+    { email: "juan@correo.com", password: "jua123" },
+    { email: "maria@correo.com", password: "mar123" },
+    { email: "carlos@correo.com", password: "car123" },
+    { email: "laura@correo.com", password: "lau123" },
+    { email: "andres@correo.com", password: "and123" },
+    { email: "camila@correo.com", password: "cam123" },
+    { email: "david@correo.com", password: "dav123" },
     { email: "paula@correo.com", password: "Pau123" },
-    { email: "jose@correo.com", password: "Jos123" },
-    { email: "valentina@correo.com", password: "Val123" }
+    { email: "jose@correo.com", password: "jos123" },
+    { email: "valentina@correo.com", password: "val123" }
 ];
 
-document.getElementById("loginForm").addEventListener("submit", function (e) {
+document.getElementById("loginForm").addEventListener("submit", function(e) {
     e.preventDefault();
 
     const email = document.getElementById("email").value.trim();
