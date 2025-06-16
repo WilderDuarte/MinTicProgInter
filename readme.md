@@ -2,15 +2,21 @@
 
 ## 🎯 Finalidad del Proyecto
 
-Este proyecto tiene como objetivo que estudiantes de nivel básico en programación web comprendan y apliquen conceptos fundamentales de **HTML**, **CSS** y **JavaScript básico**, integrando **Bootstrap 5** mediante CDN para lograr interfaces limpias, responsivas y modernas.
+Este proyecto tiene como objetivo que estudiantes de nivel básico en programación web comprendan y apliquen conceptos fundamentales de **HTML**, **CSS** y **JavaScript**, integrando **Bootstrap 5** mediante CDN para lograr interfaces limpias, responsivas y modernas.
+
+Además, se ha incorporado:
+
+- **EmailJS**, para demostrar el envío de correos electrónicos directamente desde el frontend, sin necesidad de backend, como parte de la funcionalidad de recuperación de contraseña.
+- **SweetAlert2**, para reemplazar los mensajes `alert()` tradicionales con una interfaz moderna, amigable y personalizable para validar acciones como login exitoso, errores o confirmaciones.
 
 A través de esta actividad los estudiantes:
+
 
 - Usan formularios HTML reales y comprenden su estructura.
 - Aplican clases de Bootstrap para diseño y responsividad.
 - Organizan un proyecto con múltiples vistas y archivos de estilos externos.
 - Comprenden la navegación entre páginas mediante enlaces.
-- Integran **servicios externos (EmailJS)** para el envío de correos desde el navegador.
+- Integran **servicios externos** (EmailJS y SweetAlert) para el envío de correos y visualización de alertas modernas.
 - Sientan las bases para futuras funcionalidades como validación, almacenamiento de datos o integración con backend.
 
 ---
@@ -33,16 +39,16 @@ A través de esta actividad los estudiantes:
 ```
 
 ---
-
 ## 🛠️ Tecnologías Utilizadas
 
-| Tecnología        | Logo                                                                 | Descripción                                                                 |
-|------------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| **HTML5**        | ![HTML5](https://img.icons8.com/color/48/html-5--v1.png)              | Lenguaje de marcado usado para estructurar las páginas web.                |
-| **CSS3**         | ![CSS3](https://img.icons8.com/color/48/css3.png)                     | Hojas de estilo para personalizar la apariencia de la web.                 |
-| **Bootstrap 5**  | ![Bootstrap](https://img.icons8.com/color/48/bootstrap.png)           | Framework CSS para facilitar el diseño responsive y atractivo.             |
-| **JavaScript**   | ![JS](https://img.icons8.com/color/48/javascript--v1.png)             | Se utiliza para validaciones y lógica interactiva.                         |
-| **EmailJS**      | ![EmailJS](https://img.icons8.com/fluency/48/send-mass-email.png)     | Servicio para enviar correos desde el frontend sin necesidad de backend.   |
+| Tecnología              | Logo                                                                 | Descripción                                                                                   |
+|------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| **HTML5**              | ![HTML5](https://img.icons8.com/color/48/html-5--v1.png)              | Lenguaje de marcado usado para estructurar las páginas web.                                  |
+| **CSS3**               | ![CSS3](https://img.icons8.com/color/48/css3.png)                     | Hojas de estilo para personalizar la apariencia de la web.                                   |
+| **Bootstrap 5**        | ![Bootstrap](https://img.icons8.com/color/48/bootstrap.png)           | Framework CSS para facilitar el diseño responsive y atractivo.                               |
+| **JavaScript (básico)**| ![JS](https://img.icons8.com/color/48/javascript--v1.png)             | Se utilizará más adelante para validaciones y lógica interactiva.                            |
+| **EmailJS**            | ![EmailJS](https://img.icons8.com/fluency/48/send-mass-email.png)     | Servicio para enviar correos desde el frontend sin necesidad de backend.                     |
+| **SweetAlert2**        | ![SweetAlert2](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-sweetalert-a-js-popup-box-library-for-sweet-alert-message-logo-shadow-tal-revivo.png) | Librería JavaScript para mostrar alertas personalizadas, modernas y amigables para el usuario. |
 
 ---
 
