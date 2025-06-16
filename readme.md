@@ -34,8 +34,6 @@ A través de esta actividad los estudiantes:
 
 ## 🛠️ Tecnologías Utilizadas
 
-## 🛠️ Tecnologías Utilizadas
-
 | Tecnología        | Logo                                                                 | Descripción                                                                 |
 |------------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | **HTML5**        | ![HTML5](https://img.icons8.com/color/48/html-5--v1.png)              | Lenguaje de marcado usado para estructurar las páginas web.                |
