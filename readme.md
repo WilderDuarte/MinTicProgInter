@@ -26,9 +26,10 @@ A través de esta actividad los estudiantes:
 │   └── pagina_principal.html # Vista principal para usuario logueado
 ├── css/
 │   └── estilos.css           # Hoja de estilos externa común a todas las páginas
-├── js/
+└── js/
     ├── login.js              # Script que contiene lógica del login
-    └── recuperar.js          # Script que contiene lógica para recuperar contraseña
+    ├── recuperar.js          # Script que contiene lógica para recuperar contraseña
+    └── token_email.js        # Script para conectar email con recuperar contraseña
 ```
 
 ---
