@@ -40,7 +40,7 @@ document.getElementById("loginForm").addEventListener("submit", function(e) {
             timer: 2000,
             showConfirmButton: false
         }).then(() => {
-            window.location.href = "html/pagina_principal.html";
+            window.location.href = "html/pagina_ppal.html";
         });
     } else {
         Swal.fire("Error", "Correo o contraseña incorrectos.", "error");
