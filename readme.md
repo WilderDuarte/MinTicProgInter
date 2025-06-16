@@ -22,11 +22,12 @@ A través de esta actividad los estudiantes:
 ├── index.html                # Página principal de Login
 ├── html/
 │   ├── registro.html         # Formulario para registrar usuarios nuevos
-│   └── recuperar.html        # Vista para recuperación de contraseña
+│   ├── recuperar.html        # Vista para recuperación de contraseña
+│   └── pagina_principal.html # Vista principal para usuario logueado
 ├── css/
 │   └── estilos.css           # Hoja de estilos externa común a todas las páginas
 ├── js/
-    └── login.js              # Script que contiene lógica del login
+    ├── login.js              # Script que contiene lógica del login
     └── recuperar.js          # Script que contiene lógica para recuperar contraseña
 ```
 
