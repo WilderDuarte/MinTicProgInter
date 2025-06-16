@@ -39,6 +39,7 @@ A través de esta actividad los estudiantes:
 ```
 
 ---
+
 ## 🛠️ Tecnologías Utilizadas
 
 | Tecnología              | Logo                                                                 | Descripción                                                                                   |
@@ -48,7 +49,8 @@ A través de esta actividad los estudiantes:
 | **Bootstrap 5**        | ![Bootstrap](https://img.icons8.com/color/48/bootstrap.png)           | Framework CSS para facilitar el diseño responsive y atractivo.                               |
 | **JavaScript (básico)**| ![JS](https://img.icons8.com/color/48/javascript--v1.png)             | Se utilizará más adelante para validaciones y lógica interactiva.                            |
 | **EmailJS**            | ![EmailJS](https://img.icons8.com/fluency/48/send-mass-email.png)     | Servicio para enviar correos desde el frontend sin necesidad de backend.                     |
-| **SweetAlert2**        | ![SweetAlert2](https://meta-q.cdn.bubble.io/f1715808813810x200336089501440320/favicon.png) | Librería JavaScript para mostrar alertas personalizadas, modernas y amigables para el usuario. |
+| **SweetAlert2**        | ![SweetAlert2](https://img.icons8.com/external-flat-icons-inmotus-design/48/external-alert-user-interface-flat-icons-inmotus-design.png) | Librería JS para mostrar alertas modernas, elegantes y personalizadas. |
+
 
 ---
 
