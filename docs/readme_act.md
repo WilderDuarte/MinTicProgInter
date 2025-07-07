@@ -46,7 +46,6 @@ Crear un archivo `README.md` en formato Markdown que documente el flujo completo
 - ¿Qué ocurre si se clona un repositorio que ya existe en tu máquina?
 - ¿Cómo puedes ver todas las ramas locales y remotas?
 - ¿Qué comando usas para eliminar un archivo del repositorio?
-- ¿Cómo puedes ver todas las ramas locales y remotas?
 - ¿Cómo ves el historial de commits en tu repositorio?
 - ¿Cómo puedes ver los últimos 3 commits en una sola línea cada uno?
 - ¿Qué comando usas para ver el estado actual de tu repositorio?
