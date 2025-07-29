@@ -12,7 +12,7 @@ const usuarios = [
     { email: "valentina@correo.com", password: "val123" }
 ];
 
-document.getElementById("loginForm").addEventListener("submit", function(e) {
+document.getElementById("loginForm").addEventListener("submit", function (e) {
     e.preventDefault();
 
     const email = document.getElementById("email").value.trim();
@@ -45,4 +45,15 @@ document.getElementById("loginForm").addEventListener("submit", function(e) {
     } else {
         Swal.fire("Error", "Correo o contraseña incorrectos.", "error");
     }
+});
+
+const togglePassword = document.getElementById('togglePassword');
+const passwordInput = document.getElementById('password');
+
+togglePassword.addEventListener('click', function () {
+    const type = passwordInput.type === 'password' ? 'text' : 'password';
+    passwordInput.type = type;
+
+    this.querySelector('i').classList.toggle('bi-eye');
+    this.querySelector('i').classList.toggle('bi-eye-slash');
 });
